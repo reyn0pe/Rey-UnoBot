@@ -1,0 +1,18 @@
+new - Mulai permainan baru 
+join - Bergabunglah dengan game saat ini 
+start - Memulai permainan 
+leave - Tinggalkan permainan yang Anda mainkan 
+close - Tutup lobi permainan 
+open - Buka lobi permainan 
+kill - Hentikan permainan 
+kick - Menendang pemain keluar dari permainan 
+enable_translations - Aktifkan multi-terjemahan 
+disable_translations - Nonaktifkan multi-terjemahan 
+skip - Lewati pemain saat ini 
+notify_me - Dapatkan pesan saat ada game baru di grup ini 
+help - Bagaimana cara menggunakan bot ini? 
+modes - Penjelasan mode permainan
+settings - Bahasa dan pengaturan lainnya 
+stats - Tampilkan statistik
+source - Lihat informasi sumber 
+news - Semua berita tentang bot ini
